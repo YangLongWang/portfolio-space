@@ -71,13 +71,13 @@ export const Banner = () => {
                     developer who is certificate in Full Stack Web Development
                     from the University of Toronto Bootcamp with a strong
                     interest in computer technology and a focus on better user
-                    experience on the web. Learned new skills in CSS,
-                    JavaScript, python, node.js, and responsive web design from
-                    Bootcamp. Be called an innovative practitioner and problem
-                    solver with a passion for developing apps, focusing on
-                    mobile-first design and development, with a clean and
-                    comfortable front-end UI. Each project can achieve the best
-                    readability, and the data structure is clear. Good
+                    experience on the web. Learned new skills in HTML, CSS,
+                    JavaScript, python, node.js, express.js, and responsive web
+                    design from Bootcamp. Be called an innovative practitioner
+                    and problem solver with a passion for developing apps,
+                    focusing on mobile-first design and development, with a
+                    clean and comfortable front-end UI. Each project can achieve
+                    the best readability, and the data structure is clear. Good
                     understanding of project requirements and outlines. I have
                     strong execution and coordination skills in teamwork and can
                     quickly promote the plan's development. My goal is to be an
