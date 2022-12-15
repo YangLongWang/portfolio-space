@@ -1,11 +1,9 @@
-import { Navbar, Nav, Container } from "react-bootstrap";
-
 import { useState, useEffect } from "react";
+import { Navbar, Nav, Container } from "react-bootstrap";
 
 import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
-import navIcon2 from "../assets/img/nav-icon2.svg";
-import navIcon3 from "../assets/img/nav-icon3.svg";
+import navIcon4 from "../assets/img/nav-icon4.svg";
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
@@ -70,14 +68,11 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="https://github.com/YangLongWang">
-                <img src={navIcon1} alt="" />
+              <a href="https://www.linkedin.com/in/longyang-wang/">
+                <img src={navIcon1} alt="linkedIn" />
               </a>
               <a href="https://github.com/YangLongWang">
-                <img src={navIcon2} alt="" />
-              </a>
-              <a href="https://github.com/YangLongWang">
-                <img src={navIcon3} alt="" />
+                <img src={navIcon4} alt="github" />
               </a>
             </div>
             <button className="vvd" onClick={() => console.log("connect")}>
